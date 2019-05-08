@@ -1,12 +1,12 @@
-# Webpack JS starter kit
-This isn't anything too crazy, just have node installed, and this should do the rest :)
+# Webpack JS New Test RPG
+Node is Installed
 
 Prerequisites
 * Node
 
 ## Installation
-If you're just starting out, go ahead and install Node.js on your system <https://nodejs.org/>.
-Then install Yarn globally (because it's better than NPM... In my opinion).
+If you don't already, install Node.js on your system <https://nodejs.org/>.
+Then install Yarn, because that is what I happen to be using
 
 In your system terminal run:
 ```
@@ -25,7 +25,6 @@ Finally, install the dependencies by running:
 yarn install
 ```
 
-You should be good to go now!
 To build the deployment project run:
 ```
 yarn build
@@ -35,7 +34,3 @@ To start the dev server on port 3000 run:
 ```
 yarn start
 ```
-
-Enjoy!
--
-Daniel Jackson
